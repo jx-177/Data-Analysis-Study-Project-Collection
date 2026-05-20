@@ -25,7 +25,7 @@
 
 1. 克隆本仓库：
    ```bash
-   git clone git clone https://github.com/jx-177/Data-Analysis-Study-Project-Collection.git
+   git clone https://github.com/jx-177/Data-Analysis-Study-Project-Collection.git
    cd "Data Analysis Study Project Collection"
    ```
 
